@@ -5,4 +5,11 @@ The international standard letter/number mapping found on the telephone is shown
 
 This program prompts the user to enter a letter and displays its corresponding number.
 
-Here are some sample runs:
+### Here are some sample runs:
+
+![Sample run 01](https://user-images.githubusercontent.com/41565191/60344672-4c0fe900-99cc-11e9-80f3-f49d675a01e2.PNG)
+
+![Sample run 02](https://user-images.githubusercontent.com/41565191/60344674-4c0fe900-99cc-11e9-9080-5e6e8dedf132.PNG)
+
+![Sample run 03](https://user-images.githubusercontent.com/41565191/60344675-4c0fe900-99cc-11e9-888e-8f2e1e766538.PNG)
+
